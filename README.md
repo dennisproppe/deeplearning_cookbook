@@ -8,7 +8,7 @@ There are two main goals:
 
 ## Structure
 
-This cookbook is structured into many lessons. They just follow my personal progress.
+This cookbook is structured into different lessons. They just follow my personal progress.
 
 ### Lesson 0: Simple neural network from scratch
 
