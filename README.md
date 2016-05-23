@@ -10,6 +10,10 @@ There are two main goals:
 
 This cookbook is structured into lessons. They just follow my personal progress.
 
+### Lesson 0: Simple neural network from scratch
+
+I am using this to understand the basic concepts.
+
 ### Lesson 1: Logistic regression on the MNIST Dataset with a very simple Theano implementation
 
 This is just to get to now Theano a bit. 
